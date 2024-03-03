@@ -8,6 +8,7 @@
   background-image: url(./images/background_header.svg);
   background-repeat: no-repeat;
   background-size: cover;
+  margin: 0;
 }
 
 .header {
