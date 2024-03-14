@@ -23,6 +23,7 @@
 }
 
 .header__span-accent {
+  display: block;
   font-family: "Noto Serif";
   font-style: italic;
   font-weight: normal;
@@ -45,8 +46,8 @@
 .header__footer {
   display: flex;
   justify-content: space-between;
-  margin-top: 225px;
-  align-items: baseline;
+  margin-top: auto;
+  align-items: end;
 }
 
 .header__paragraph {

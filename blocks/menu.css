@@ -6,8 +6,9 @@
 }
 
 .menu__title {
+  max-width: 780px;
   text-align: center;
-  margin: 0 0 24px;
+  margin: 0 360px 24px;
   font-family: "Inter";
   font-style: normal;
   font-weight: 500;
@@ -18,7 +19,7 @@
 .menu__subtitle {
   max-width: 780px;
   text-align: center;
-  margin: 0 250px 100px;
+  margin: 0 auto 100px;
   font-family: "Noto Serif";
   font-style: normal;
   font-weight: normal;
